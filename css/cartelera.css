@@ -1,0 +1,43 @@
+.hero {
+    height: calc(50vh - 100px);
+    background: url('../img/teatro-mitre.jpg') center/cover no-repeat;
+    overflow: hidden;
+      background-attachment: fixed;
+}
+
+.hero-overlay {
+    background: rgba(0, 0, 0, 0.80);
+    backdrop-filter: blur(10px);
+}
+
+.hero-title {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+    letter-spacing: 8px;
+}
+
+.hero-description {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    letter-spacing: 5px;
+}
+
+.img-card {
+    height: 300px;
+    object-fit: cover;
+}
+
+.descripcion {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  overflow: hidden;     
+  text-overflow: ellipsis;
+}
+
+.elenco {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;     
+  text-overflow: ellipsis;
+}
