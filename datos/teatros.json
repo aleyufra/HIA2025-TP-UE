@@ -3,49 +3,49 @@
         "titulo": "La vida es sueño",
         "tematica": "Aventura",
         "descripcion": "uno de los clásicos del teatro español del siglo de oro. Actores y actrices de renombre han pasado por la piel de Segismundo o Rosaura, sus protagonistas y su representación tiene múltiples versiones, desde las más clásicas hasta las más modernas e innovadoras. Esta magistral obra de teatro, escrita por Pedro Calderón de la Barca y estrenada en 1635, es un drama exponente del teatro barroco que consta de tres actos o jornadas. Y tal como se refleja en Wikipedia, el tema central es la “libertad del ser humano para configurar su vida, sin dejarse llevar por un supuesto destino”",
-        "imagen": "./img/teatros/teatro-01.webp",
+        "imagen": "img/teatros/teatro-01.webp",
         "elenco": "Alejandro Ríos, Mateo Fernández, Lucas Herrera, Gabriel Morales, Nicolás Vargas"
     },
     {
         "titulo": "Fuenteovejuna",
         "tematica": "Comedia",
         "descripcion": "El prolífico Lope de Vega es conocido por muchas comedias, pero entre sus dramas este, sin duda, es el más importante junto con otras obras como Peribáñez y el Comendador de Ocaña o El mejor alcalde, el rey. Publicada en Madrid en el año 1619 se trata de un drama en tres actos que se inspira en hechos históricos sucedidos en el pueblo cordobés de Fuente Ovejuna en tiempos de los Reyes Católicos. Una obra de contenido social y reivindicativo, tal como se recoge en Wikipedia, en la que se representa la rebelión del pueblo llano, unido ante la tiranía y la injusticia. De esta gesta de este pueblo como un único actor que busca justicia sale la famosa frase “Fuenteovejuna, todos a una”. Te aconsejo la lectura de esta obra para conocer en detalle por qué un pueblo se une contra la tiranía en plena época feudal.",
-        "imagen": "./img/teatros/teatro-02.webp",
+        "imagen": "img/teatros/teatro-02.webp",
         "elenco": "Valentina López, Camila Torres, Isabella Méndez, Sofía Ramírez, Martina Castillo"
     },
     {
         "titulo": "La Celestina",
         "tematica": "Comedia",
         "descripcion": "Conocida inicialmente como Tragicomedia de Calisto y Melibea, esta obra atribuida a Fernando de Rojas es la más antigua de las de este listado ya que se publicó como tragicomedia en 1502. Se podría decir que los temas principales de la obra son el amor, la muerte y la codicia y su estructura en 21 actos no responde a una división clásica del género dramático, dado que esta obra se encuentra a caballo entre el teatro y la novela. No obstante, se puede estructurar en al menos tres partes diferenciadas, aunque podría llegarse a dividir en cinco. Aunque parezca compleja, se recomienda su lectura o asistencia a cualquiera de las múltiples adaptaciones teatrales que se han llevado a cabo.",
-        "imagen": "./img/teatros/teatro-03.webp",
+        "imagen": "img/teatros/teatro-03.webp",
         "elenco": "Moreno, Jordan Silva, Taylor Gómez, Samir Cruz, Ariel Díaz, Diego Sánchez, Joaquín Pérez, Emiliano Torres"
     },
     {
         "titulo": "El alcalde de Zalamea",
         "tematica": "Comedia",
         "descripcion": "Escrita por Pedro Calderón de la Barca, esta obra se representó, según parece, por primera vez en 1636. Se trata, según se desprende de Wikipedia, de una comedia villanesca o de villanos y drama de honor y trata temas como la justicia o la dignidad del individuo. La obra, estructurada en tres jornadas, narra el drama vivido en la localidad extremeña de Zalamea de la Serena al pasar las tropas españolas con motivo de la Guerra de Portugal. Es interesante recordar que esta obra se representa todos los años en la segunda quincena de agosto en el escenario real en el que tuvieron lugar los hechos que relata la obra: Zalamea de la Serena, un pueblo de la provincia de Badajoz en un festival que ha sido declarado Fiesta de Interés Turístico Regional.",
-        "imagen": "./img/teatros/teatro-04.webp",
+        "imagen": "img/teatros/teatro-04.webp",
         "elenco": "Francisco Rivera, Sebastián Castro, María Fernanda López, Catalina Vargas, Daniela Jiménez, Lucía Molina"
     },
     {
         "titulo": "El perro del hortelano",
         "tematica": "Comedia",
         "descripcion": "Esta famosa comedia en tres actos de Lope de Vega se publicó en Madrid el año 1618. Y tal como recoge Wikipedia, procede por una expresión idiomática: «Ser como el perro del hortelano, que no come ni deja comer»; el perro es un animal no vegetariano que no come las verduras del huerto de su amo, pero no deja que los otros animales las coman. Toda la frase se refiere al argumento de la obra y significa que la condesa Diana no puede amar a Teodoro y por eso, no le deja amar ni ser amado por cualquier otra persona. Como se puede deducir, el tema principal de la obra es el amor. Se trata de una interesante y divertida obra que ha llegado a ser llevada al cine.",
-        "imagen": "./img/teatros/teatro-05.webp",
+        "imagen": "img/teatros/teatro-05.webp",
         "elenco": "Camila Rojas, Andrés Gómez, Bruno Martínez, Nicolás Herrera"
     },
     {
         "titulo": "La traición en la amistad",
         "tematica": "Comedia",
         "descripcion": "Destaco esta obra especialmente porque es una de las pocas comedias del Siglo de Oro escrita por una mujer. Tal como recoge el repositorio Roderic de la Universitat de València, la traición en la amistad, la única obra teatral conservada de María de Zayas, es una historia de amor y de engaños entre hombres y mujeres, una historia que puede resultar a primera vista convencional, pero que tiene interés para los lectores modernos por ser abordada desde la perspectiva de la experiencia de una mujer, algo ciertamente poco habitual en el panorama del teatro del siglo XVII. Al respecto, hace unos meses desde Las Buenas Artes tuvimos la ocasión de hablar en directo a través de nuestro canal de Instagram con dos de las actrices de “Adiós, dueño mío”, adaptación de esta obra por la genial Magüi Mira.",
-        "imagen": "./img/teatros/teatro-06.webp",
+        "imagen": "img/teatros/teatro-06.webp",
         "elenco": "Camila Rojas, Andrés Gómez, Bruno Martínez, Nicolás Herrera, Federico Domínguez, Leonardo Pérez"
     },
     {
         "titulo": "El retablo de las maravillas",
         "tematica": "Romance",
         "descripcion": "Esta obra de 1615 se trata de uno de los ocho entremeses, de hecho el más conocido, del autor por excelencia de la literatura española: Miguel de Cervantes. Aunque Cervantes siempre destacó como novelista, su incursión como dramaturgo fue como autor de este tipo de “teatro menor”. Tal y como recoge Wikipedia, esta obra cervantina es un buen ejemplo del entremés del teatro español del Siglo de Oro; pieza breve, de un solo acto, dispuesta para ser representada entre acto y acto de una obra teatral, es de carácter jocoso y burlesco, con mucho movimiento y griterío de los personajes. Recomendable su lectura para ver el tipo de obra que divertía al público del siglo XVII.",
-        "imagen": "./img/teatros/teatro-07.webp",
+        "imagen": "img/teatros/teatro-07.webp",
         "elenco": "Sofía Ramírez, Martina Castillo, Alex Moreno, Jordan Silva, Taylor Gómez, Samir Cruz, Ariel Díaz, Diego Sánchez"
     }
 ]

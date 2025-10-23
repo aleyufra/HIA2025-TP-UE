@@ -1,12 +1,12 @@
 window.addEventListener('load', () => {
 	// Navbar
-	fetch('./navbar.html')
+	fetch('navbar.html')
 		.then(res => res.text())
 		.then(data => document.getElementById('navbar-container').innerHTML = data)
 		.catch(err => console.error('Error al cargar navbar:', err));
 
 	// Footer
-	fetch('./footer.html')
+	fetch('footer.html')
 		.then(res => res.text())
 		.then(data => document.getElementById('footer-container').innerHTML = data)
 		.catch(err => console.error('Error al cargar footer:', err));

@@ -1,7 +1,7 @@
 window.addEventListener('load', () => {
 
     // Cartelera completa
-    fetch('/datos/teatros.json')
+    fetch('datos/teatros.json')
         .then(res => res.json())
         .then(data => {
             const container = document.getElementById('card-container');
